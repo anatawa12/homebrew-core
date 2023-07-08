@@ -1,8 +1,8 @@
 class VrcGet < Formula
   desc "Command-line VPM Client"
   homepage "https://github.com/anatawa12/vrc-get"
-  url "https://github.com/anatawa12/vrc-get/archive/v1.1.1.tar.gz"
-  sha256 "b5e1f3a2636010b4db4cbc719f19f2eed6300017ea4fc7cfc6adb69330d8c1de"
+  url "https://github.com/anatawa12/vrc-get/archive/v1.1.2.tar.gz"
+  sha256 "9551895f6e746d397982f662a3518c81dc319eede953fba4138e050ef7f20256"
   license "MIT"
 
   head "https://github.com/anatawa12/vrc-get.git", branch: "master"
