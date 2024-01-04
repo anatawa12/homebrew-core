@@ -15,7 +15,7 @@ class VrcGet < Formula
   depends_on "rust" => :build
 
   def install
-    system "cargo", "install", "--root", prefix, "--path", "."
+    system "cargo", "install", "--root", prefix, "--path", "vrc-get"
   end
 
   test do
